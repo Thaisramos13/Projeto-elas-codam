@@ -1,2 +1,2 @@
 # Projeto-elas-codam
-Projeto voltado para mulheres na área de tecnologia
+Projeto de estudo voltado para mulheres na área de tecnologia
